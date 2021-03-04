@@ -15,17 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="pch.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="pch.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="CSP_byzhouxiang.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="src\(没写完)202006-3 Markdown渲染器.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
