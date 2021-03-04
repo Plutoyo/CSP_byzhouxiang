@@ -161,6 +161,14 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
+    <ClCompile Include="src\(没写完)202006-3 Markdown渲染器.cpp" />
+    <ClCompile Include="src\201312-3 最大的矩形.cpp" />
+    <ClCompile Include="src\201604-4  游戏.cpp" />
+    <ClCompile Include="src\201609-4 交通规划.cpp" />
+    <ClCompile Include="src\201709-4 通信网络.cpp" />
+    <ClCompile Include="src\201712-4 行车路线.cpp" />
+    <ClCompile Include="src\202009-3 点亮数字人生.cpp" />
+    <ClCompile Include="src\202012-4 食材运输答案.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
